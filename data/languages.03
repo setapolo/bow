@@ -3,11 +3,13 @@
 *8th
 **ABAP
 **ACL2
+*ActionScript
 **Ada
 **Agena
 **Aime
 **Algae
 *ALGOL 60
+*ALGOL 68
 *ALGOL-M
 *ALGOL W
 **Alore
@@ -43,6 +45,7 @@
 **Brat
 **Brlcad
 **Burlesque
+*C++/CLI
 **C1R
 **Cat
 **Cduce
@@ -53,6 +56,7 @@
 **CLIPS
 **CMake
 **Cobra
+***ColdFusion
 **Comal
 **Comefrom0x10
 **Component Pascal
@@ -151,11 +155,13 @@
 **Lily
 **LilyPond
 **Limbo
+***Lingo
 **Lisaac
 **Little
 **LiveCode
 **LLVM
 **Lobster
+****Logo
 **Logtalk
 **LOLCODE
 **LotusScript
@@ -202,6 +208,7 @@
 **Pike
 **PILOT
 **PIR
+***PL/I
 **PL/SQL
 **Pony
 **Pop11
@@ -217,6 +224,7 @@
 **REALbasic
 **RED
 **Retro
+***REXX
 **.1 using SAY
 **.2 using SAY variable
 **.3 using LINEOUT
@@ -238,6 +246,7 @@
 **Shiny
 **Sidef
 **SIMPOL
+***Simula
 **Sisal
 **SkookumScript
 **Slate

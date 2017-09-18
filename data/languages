@@ -1,0 +1,385 @@
+1 0815
+2 360 Assembly
+3 4DOS Batch
+4 6502 Assembly
+5 6800 Assembly
+6 8086 Assembly
+7 8th
+8 ABAP
+9 ACL2
+10 ActionScript
+11 Ada
+12 Agena
+13 Aime
+14 Algae
+15 ALGOL 60
+16 ALGOL 68
+17 ALGOL-M
+18 ALGOL W
+19 Alore
+20 AmbientTalk
+21 AmigaE
+22 AntLang
+23 Anyways
+24 APL
+25 AppleScript
+26 Applesoft BASIC
+27 Apricot
+28 Arendelle
+29 Argile
+30 ARM Assembly
+31 Astro
+32 Asymptote
+33 ATS
+34 AutoHotkey
+35 AutoIt
+36 AutoLISP
+37 AWK
+38 Axe
+39 Babel
+40 bash
+41 BASIC
+42 BASIC256
+43 Batch File
+44 Battlestar
+45 BBC BASIC
+46 bc
+47 BCPL
+48 beeswax
+49 Befunge
+50 Blast
+51 BML
+52 Boo
+53 Brace
+54 Bracmat
+55 Brainf***
+56 Brat
+57 Brlcad
+58 Burlesque
+59 C
+60 C#
+61 C++
+62 C++/CLI
+63 C1R
+64 Cat
+65 Cduce
+66 Chef
+67 ChucK
+68 Clay
+69 Clean
+70 Clipper
+71 CLIPS
+72 Clojure
+73 CMake
+74 COBOL
+75 Cobra
+76 CoffeeScript
+77 ColdFusion
+78 Comal
+79 Comefrom0x10
+80 Common Lisp
+81 Component Pascal
+82 Crack
+83 Creative Basic
+84 Crystal
+85 D
+86 Dafny
+87 Dao
+88 Dart
+89 dc
+90 DCL
+91 DDNC
+92 Déjà Vu
+93 DeviousYarn
+94 Delphi
+95 DIV Games Studio
+96 DM
+97 DWScript
+98 Dylan
+99 Dylan.NET
+100 E
+101 eC
+102 EchoLisp
+103 ECL
+104 EDSAC order code
+105 Efene
+106 Egison
+107 EGL
+108 Eiffel
+109 Ela
+110 elastiC
+111 Elena
+111.1 Alternative variant using Tape
+112 Elisa
+113 Elixir
+114 Elm
+115 Emacs Lisp
+116 Erlang
+117 ERRE
+118 Euler Math Toolbox
+119 Extended BrainF***
+120 Ezhil
+121 F#
+122 Factor
+123 Falcon
+124 FALSE
+125 Fantom
+126 ferite
+127 Fexl
+128 Fish
+129 FOCAL
+130 Forth
+131 Fortran
+132 Fortress
+133 FreeBASIC
+134 Frege
+135 friendly interactive shell
+136 Frink
+137 FunL
+138 FUZE BASIC
+139 Gambas
+140 GAP
+141 gecho
+142 Gema
+143 Gentee
+144 GFA Basic
+145 GLBasic
+146 Glee
+147 GML
+148 Go
+149 Golfscript
+150 Gosu
+151 Groovy
+152 GW-BASIC
+153 Hack
+154 Halon
+155 Harbour
+156 Haskell
+157 Haxe
+158 HicEst
+159 HLA
+160 Hoon
+161 HPPPL
+162 HQ9+
+163 Hy
+164 I
+165 Icon and Unicon
+166 IDL
+167 Inform 6
+168 Integer BASIC
+169 Io
+170 Ioke
+171 IWBASIC
+172 J
+173 Jack
+174 Jacquard Loom
+175 Java
+176 JavaScript
+177 JCL
+178 Joy
+179 jq
+180 Julia
+181 Kaya
+182 Kdf9 Usercode
+183 Kite
+184 Kitten
+185 KonsolScript
+186 Kotlin
+187 Lang5
+188 LaTeX
+189 Lasso
+190 LFE
+191 LC3 Assembly
+192 Liberty BASIC
+193 Lily
+194 LilyPond
+195 Limbo
+196 Lingo
+197 Lisaac
+198 Little
+199 LiveCode
+200 LLVM
+201 Lobster
+202 Logo
+203 Logtalk
+204 LOLCODE
+205 LotusScript
+206 LSE64
+207 Lua
+208 M4
+209 Maclisp
+210 make
+211 Malbolge
+212 Maple
+213 Mathematica / Wolfram Language
+214 MATLAB
+215 Maude
+216 Maxima
+217 MAXScript
+218 Mercury
+219 Metafont
+220 MIPS Assembly
+221 mIRC Scripting Language
+222 ML/I
+223 Modula-2
+224 Modula-3
+225 Morfa
+226 MUF
+227 MUMPS
+228 MyDef
+229 MyrtleScript
+230 MySQL
+231 Mythryl
+232 Neat
+233 Neko
+234 Nemerle
+235 NetRexx
+236 newLISP
+237 Nim
+238 Nit
+239 Oberon-2
+240 Objeck
+241 Objective-C
+242 OCaml
+243 Occam
+244 Octave
+245 Oforth
+246 Onyx
+247 OOC
+248 ooRexx
+249 OpenLisp
+250 Openscad
+251 Oxygene
+252 Oz
+253 PARI/GP
+254 Pascal
+255 PASM
+256 PDP-1 Assembly
+257 PDP-11 Assembly
+258 Perl
+259 Perl 6
+260 Phix
+261 PHL
+262 PHP
+263 PicoLisp
+264 Pict
+265 Pike
+266 PILOT
+267 PIR
+268 PL/I
+269 PL/SQL
+270 Pony
+271 Pop11
+272 PostScript
+273 Potion
+274 PowerShell
+275 Processing
+276 ProDOS
+277 Prolog
+278 PSQL
+279 Pure
+280 PureBasic
+281 Python
+282 Quill
+283 R
+284 Ra
+285 Racket
+286 Raven
+287 REALbasic
+288 REBOL
+289 RED
+290 Retro
+291 REXX
+291.1 using SAY
+291.2 using SAY variable
+291.3 using LINEOUT
+292 RTL/2
+293 Ring
+294 Ruby
+295 Run BASIC
+296 Rust
+297 Salmon
+298 SAS
+299 Sather
+300 Scala
+300.1 Ad hoc REPL solution
+300.2 Via Java runtime
+300.3 Via Scala Console API
+300.4 Short term deviation to out
+300.5 Long term deviation to out
+301 Scheme
+301.1 R7RS Scheme
+302 Scilab
+303 sed
+304 Seed7
+305 Self
+306 Set lang
+307 SETL
+308 SETL4
+309 Shen
+310 Shiny
+311 Sidef
+312 SIMPOL
+313 Simula
+314 Sisal
+315 SkookumScript
+316 Slate
+317 Smalltalk
+318 smart BASIC
+319 SmileBASIC
+320 SNOBOL4
+321 SNUSP
+321.1 Core SNUSP
+321.2 Modular SNUSP
+322 SoneKing Assembly
+323 SPARC Assembly
+324 Sparkling
+325 SPL
+326 SQL
+327 Standard ML
+328 Stata
+329 Suneido
+330 Swift
+331 Symsyn
+332 Tcl
+333 Teco
+334 Terra
+335 TestML
+336 TI-83 BASIC
+337 TI-89 BASIC
+338 TorqueScript
+339 TPP
+340 Transact-SQL
+341 TransFORTH
+342 Trith
+343 True BASIC
+344 TUSCRIPT
+345 Uniface
+346 UNIX Shell
+346.1 C Shell
+347 Unlambda
+348 Ursa
+349 Ursala
+350 உயிர்/Uyir
+351 V
+352 Vala
+353 VBScript
+354 Vedit macro language
+355 VHDL
+356 Vim Script
+357 Viua VM assembly
+358 Wart
+359 Whenever
+360 Whiley
+361 Whitespace
+362 Wolfram Language
+363 Wren
+364 X86 Assembly
+365 xEec
+366 XL
+367 XLISP
+368 XPL0
+369 XSLT
+370 Yorick
+371 Z80 Assembly
+372 zkl

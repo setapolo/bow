@@ -3,13 +3,13 @@
 *8th
 **ABAP
 **ACL2
-ActionScript
+*ActionScript
 **Ada
 **Agena
 **Aime
 **Algae
 *ALGOL 60
-ALGOL 68
+*ALGOL 68
 *ALGOL-M
 *ALGOL W
 **Alore
@@ -54,7 +54,7 @@ Batch File
 C
 C#
 C++
-C++/CLI
+*C++/CLI
 **C1R
 **Cat
 **Cduce
@@ -69,7 +69,7 @@ Clojure
 COBOL
 **Cobra
 CoffeeScript
-ColdFusion
+***ColdFusion
 **Comal
 **Comefrom0x10
 Common Lisp
@@ -188,13 +188,13 @@ LaTeX
 **Lily
 **LilyPond
 **Limbo
-Lingo
+***Lingo
 **Lisaac
 **Little
 **LiveCode
 **LLVM
 **Lobster
-Logo
+****Logo
 **Logtalk
 **LOLCODE
 **LotusScript

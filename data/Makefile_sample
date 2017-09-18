@@ -1,0 +1,5 @@
+Sample1: sample1.cpp
+    g++ -o sample1 sample1.cpp
+
+Sample2: sample2.cpp
+    g++ -o sample2 sample2.cpp

@@ -1,0 +1,2 @@
+brew install lame
+lame --alt-preset cbr 128 sample.wav

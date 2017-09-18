@@ -257,7 +257,7 @@ PHP
 **Pike
 **PILOT
 **PIR
-PL/I
+***PL/I
 **PL/SQL
 **Pony
 **Pop11
@@ -280,7 +280,7 @@ R
 REBOL
 **RED
 **Retro
-REXX
+***REXX
 **.1 using SAY
 **.2 using SAY variable
 **.3 using LINEOUT
@@ -311,7 +311,7 @@ Set lang
 **Shiny
 **Sidef
 **SIMPOL
-Simula
+***Simula
 **Sisal
 **SkookumScript
 **Slate

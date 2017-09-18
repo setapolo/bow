@@ -279,94 +279,94 @@ R
 **REALbasic
 REBOL
 **RED
-Retro
+**Retro
 REXX
-.1 using SAY
-.2 using SAY variable
-.3 using LINEOUT
-RTL/2
+**.1 using SAY
+**.2 using SAY variable
+**.3 using LINEOUT
+**RTL/2
 Ring
 Ruby
-Run BASIC
-Rust
-Salmon
+**Run BASIC
+**Rust
+**Salmon
 SAS
-Sather
+**Sather
 Scala
-.1 Ad hoc REPL solution
-.2 Via Java runtime
-.3 Via Scala Console API
-.4 Short term deviation to out
-.5 Long term deviation to out
+**.1 Ad hoc REPL solution
+**.2 Via Java runtime
+**.3 Via Scala Console API
+**.4 Short term deviation to out
+**.5 Long term deviation to out
 Scheme
-.1 R7RS Scheme
+**.1 R7RS Scheme
 Scilab
 sed
-Seed7
+**Seed7
 Self
 Set lang
-SETL
-SETL4
-Shen
-Shiny
-Sidef
-SIMPOL
+**SETL
+**SETL4
+**Shen
+**Shiny
+**Sidef
+**SIMPOL
 Simula
-Sisal
-SkookumScript
-Slate
+**Sisal
+**SkookumScript
+**Slate
 Smalltalk
-smart BASIC
-SmileBASIC
-SNOBOL4
-SNUSP
-.1 Core SNUSP
-.2 Modular SNUSP
-Sparkling
-SPL
+**smart BASIC
+**SmileBASIC
+**SNOBOL4
+**SNUSP
+**.1 Core SNUSP
+**.2 Modular SNUSP
+**Sparkling
+**SPL
 SQL
-Standard ML
-Stata
-Suneido
+**Standard ML
+**Stata
+**Suneido
 Swift
-Symsyn
+**Symsyn
 Tcl
-Teco
-Terra
-TestML
-TI-83 BASIC
-TI-89 BASIC
-TorqueScript
-TPP
+**Teco
+**Terra
+**TestML
+**TI-83 BASIC
+**TI-89 BASIC
+**TorqueScript
+**TPP
 Transact-SQL
 TransFORTH
-Trith
-True BASIC
-TUSCRIPT
-Uniface
+**Trith
+**True BASIC
+**TUSCRIPT
+**Uniface
 UNIX Shell
-.1 C Shell
-Unlambda
-Ursa
-Ursala
-உயிர்/Uyir
-V
-Vala
+**.1 C Shell
+**Unlambda
+**Ursa
+**Ursala
+**உயிர்/Uyir
+**V
+**Vala
 VBScript
-Vedit macro language
+**Vedit macro language
 VHDL
 Vim Script
-Viua VM assembly
-Wart
-Whenever
-Whiley
-Whitespace
+**Viua VM assembly
+**Wart
+**Whenever
+**Whiley
+**Whitespace
 Wolfram Language
-Wren
-xEec
-XL
-XLISP
-XPL0
-XSLT
-Yorick
-zkl
+**Wren
+**xEec
+**XL
+**XLISP
+**XPL0
+**XSLT
+**Yorick
+**zkl

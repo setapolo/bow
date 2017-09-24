@@ -1,1 +1,2 @@
 find .
+find . -name "*.zip" -exec mv '{}' 'zip' \;

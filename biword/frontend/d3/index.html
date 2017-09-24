@@ -1,0 +1,31 @@
+
+<!doctype html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>D3.jsのひな形</title>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+</head>
+<body>
+    <script>
+        var dataset = [100, 150, 200, 250, 300];
+        var svg = d3.select("body").append("svg").attr({
+        width: 500,
+        height: 300
+        });
+
+    svg.selectAll("rect")
+    .data(dataset)
+    .enter()
+    .append("rect")
+    .attr({
+        x: 0,
+        y: function(d, i){ return i * 30; },
+        width: function(d, i){ return d; },
+        height: 20,
+        fill: "green"
+    })
+
+    </script>
+</body>
+</html>
